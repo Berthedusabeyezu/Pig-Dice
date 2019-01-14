@@ -61,7 +61,7 @@ Referee.prototype.throw = function (){
       this.switchPlayer();
     }
   }
-};
+}; 
 
 
  // section on the hold key
@@ -75,7 +75,6 @@ Referee.prototype.hold = function (){
   } else if (this.players[1].turn === 1){
     this.runningTotal(this.players[1]);
     this.switchPlayer();
-
   }
 }
 
