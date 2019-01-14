@@ -78,7 +78,7 @@ Referee.prototype.hold = function (){
   }
 }
 
-Referee.prototype.pickPlayer = function (){
+Referee.prototype.pickPlayer = function (){ 
   this.players[0].turn = 1;
 }
 
