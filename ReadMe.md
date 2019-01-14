@@ -10,8 +10,8 @@ This project it deal with game of pig dice.
 ## project setup instructions
 Must use chrome and edit textor
 
-link to live site on GitHub Pages
-https://github.com/Berthedusabeyezu/QUIZ-BOARD
+## link to live site on GitHub Pages
+
 
 copyright and license information
 This project is under MIT License. Copyright (c) 2018 Berthe   
