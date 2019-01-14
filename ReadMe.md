@@ -14,4 +14,8 @@ Must use chrome and edit textor
 https://github.com/Berthedusabeyezu/Pig-Dice
 
 ## copyright and license information
+<<<<<<< HEAD
 This project is under MIT License. Copyright (c) 2019 Berthe           
+=======
+This project is under MIT License. Copyright (c) 2019 Berthe      
+
