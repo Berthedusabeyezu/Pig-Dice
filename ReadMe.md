@@ -14,4 +14,4 @@ link to live site on GitHub Pages
 https://github.com/Berthedusabeyezu/QUIZ-BOARD
 
 copyright and license information
-This project is under MIT License. Copyright (c) 2018 Berthe 
+This project is under MIT License. Copyright (c) 2018 Berthe  
