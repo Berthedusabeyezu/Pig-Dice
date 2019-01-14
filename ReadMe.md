@@ -13,5 +13,5 @@ Must use chrome and edit textor
 ## link to live site on GitHub Pages
 https://github.com/Berthedusabeyezu/Pig-Dice
 
-copyright and license information
+## copyright and license information
 This project is under MIT License. Copyright (c) 2018 Berthe   
